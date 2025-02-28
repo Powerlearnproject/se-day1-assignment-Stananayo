@@ -1,19 +1,21 @@
 
 
 
-#Software Engineering Day1 Assignment
-#Anayo Stanley Anigo
-#Part 1: Introduction to Software Engineering
+Software Engineering Day1 Assignment
+
+Anayo Stanley Anigo
+
+Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
 
 Software engineering is the process of developing, testing and deploying computer applications/softwares to solve real-world problems by adhering to a set of engineering principles and best practices. 
-Technological advancements:Software engineering is the driving force for science and technology, it shapes our digital world, By leveraging software engineering principles, we can create innovative solutions that enhance productivity, communication, and overall user experience such as developing a cutting-edge applications eg artificial intelligence, machine learning and virtual reality which enhance the quality of life, optimise daily operations and management.
+Software engineering is the driving force for technological advancement. It shapes our digital world, By leveraging software engineering principles, we can create innovative solutions that enhance productivity, communication, and overall user experience such as developing a cutting-edge applications eg artificial intelligence, machine learning and virtual reality which enhance the quality of life, optimise daily operations and management.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
 
-1.Mastering the Machine (1956–1967): 
+1. Mastering the Machine (1956–1967): 
 The discovery of first low-level Computer Aided Software Engineering tools (CASE tools) facilitating interactive editing, compiling, and debugging. The main purpose of any piece of software was to optimize exploitation of the limited hardware resources. The first compilers were defined; operating systems were noninteractive. 
 
 2. Mastering the Process (1968–1982):
