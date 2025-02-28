@@ -1,5 +1,6 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18414542&assignment_repo_type=AssignmentRepo)
-# SE_Day1
+
+Day 1 Assignment
+Anayo Stanley Anigo
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
@@ -165,7 +166,7 @@ The importance of prompt engineering include enhancing the capabilities of AI mo
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 
 
-Vague prompt: “Tips for a successful coding?”
+Vague prompt: “Tips and tricks for a successful coding?”
 
 Improved prompt:"How should I practice coding so that I write the best optimized code?"
 
