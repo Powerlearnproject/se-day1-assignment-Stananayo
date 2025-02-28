@@ -1,8 +1,8 @@
 
-Day 1 Assignment
-Anayo Stanley Anigo
-Software Engineering Day1 Assignment
 
+
+#Software Engineering Day1 Assignment
+#Anayo Stanley Anigo
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
